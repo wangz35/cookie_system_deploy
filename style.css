@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-  background: url('/image.png');
+  background: url('./image.png');
 }
 
 #options {
